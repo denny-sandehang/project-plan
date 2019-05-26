@@ -4,3 +4,5 @@ Software yang digunakan untuk pembuatan Aplikasi
 1. PHP Framework Laravel 5.8
 2. Javascript Framework - jQuery
 3. CSS Framework - Tailwind
+4. Ajax - Axios
+5. Implement event-hub untuk Javascript
